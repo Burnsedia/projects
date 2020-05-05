@@ -1,0 +1,27 @@
+NoneNonecalling "nine_lines()"
+.
+.
+.
+.
+.
+.
+.
+.
+.
+calling "clear_screen()"
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
